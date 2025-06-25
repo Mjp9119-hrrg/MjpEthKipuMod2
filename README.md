@@ -1,5 +1,5 @@
 # MjpEthKipuMod2
-Repo de  MJP para el TP2(auction)  de ETH Kipu
+Repo de MJP para el TP2(auction) de ETH Kipu
 # Auction Smart Contract Documentation
 
 ## Overview
@@ -111,6 +111,6 @@ The contract allows users to place bids, view the current highest bid, and withd
 - **getBalance()**: 
   - Returns the contract's Ether balance.
 
-## Conclusion
+## Botom line
 
 This contract provides a basic framework for an auction system, allowing for bidding, withdrawals, and auction management. It should be used for educational purposes only and requires further security and functionality enhancements for production use.
