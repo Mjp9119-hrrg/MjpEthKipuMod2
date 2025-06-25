@@ -111,6 +111,6 @@ The contract allows users to place bids, view the current highest bid, and withd
 - **getBalance()**: 
   - Returns the contract's Ether balance.
 
-## Bottom line
+## Bottom Line
 
 This contract provides a basic framework for an auction system, allowing for bidding, withdrawals, and auction management. It should be used for educational purposes only and requires further security and functionality enhancements for production use.
